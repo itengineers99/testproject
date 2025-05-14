@@ -1,0 +1,49 @@
+1) system engineering:
+       servers,networks,storage ,os, security,configurations,HA,SCalability ,releaibity,performance tunning and optimization
+
+   InfraStrucure: devops/devsecops,SRE,AI/MLOPS 
+
+
+
+2) application engineering:
+
+     SOURCE CODE MANAEMENT
+    CI/CD 
+PIPELINE:
+***************
+
+   APP: 
+  INFRA: TERRAFORM
+  DATA PIPELINE : DATA ENGINEER
+
+IDAEL TIME 
+
+OWN TOCKETS?
+
+LINUX Server:
+*********************
+
+1)  windows -----vm --centos/ubutun
+
+2) cloud --aws/azure
+
+firstpage: enter  your email/account name
+second page: personal info
+type of account: 
+3 rdpage: 
+4th page: txt message/call
+5path: 
+aws  free tier
+
+types of users:
+**********************
+root user/aws admin
+iam user login
+Region
+AZ
+
+
+
+
+
+
