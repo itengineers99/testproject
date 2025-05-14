@@ -1,0 +1,75 @@
+DevSecOps
+AI/MLOPS [Introduction]
+why DevOps:
+********************
+1) Business Prospective
+   client/stake-holders
+  project
+product(not ]
+*faster to time market
+dev environment to production 
+non-prod,prod
+* innovation 
+high-end customer satiesfaction
+
+2)IT Prospective
+*******************
+
+standardization:
+******************
+iac-terraform
+docker ,helm,k8s
+
+
+security and compliance:
+***************************
+
+better monitoing and goverance:
+*************************************
+
+
+logging ,monitoring
+elk
+elastic search
+logstash
+k-kibana
+grafana,prometheus
+infrastructure: networks,servers,os,storage,security ...
+
+
+developers prospective:
+*******************************
+faster feedback loop:
+***********************
+
+MORE FOCUS ON CODE
+CI/CD 
+AUTONOMY
+
+
+Tester Prospective:
+***********************
+continuous testing:
+*******************
+pipeline:---stages---include testing..
+
+early bug-detection
+
+environment parity:
+***************************
+
+
+operations perspective:
+*****************************
+
+
+production server
+
+client-hospital---1000----500000--automated --application-tcs
+100 croes---dev/qa/dvops---production--5 server--200000--
+stability
+speed
+scalability
+
+
+
